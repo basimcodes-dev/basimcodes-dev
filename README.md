@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**basimcodes-dev/basimcodes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Basim 👋
 
-Here are some ideas to get you started:
+I'm a full-stack developer who loves building practical, clean, and fast web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I’m currently working on
+- Building a full-stack Multi-Tenant SaaS platform with Next.js.
+- Working on full-stack web applications and refining my TypeScript skills.
+
+###  Tools & Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Bootstrap, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, VS Code 
+
+###  How to reach me
+- **Inded:** [(https://profile.indeed.com/)]
+- **Email:** [muhammadbasim@gmail.com]
